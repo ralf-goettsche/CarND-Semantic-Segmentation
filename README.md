@@ -102,8 +102,8 @@ The according samples with 3-class inference:
 
 Example movie:
 
-* Movie from advanced lane line, 2-class inference [YouTube Video] (https://www.youtube.com/watch?v=GDyUgl0csds)
-* Movie from advanced lane line, 3-class inference [YouTube Video] (https://www.youtube.com/watch?v=WnQA4dbUMDo)
+* Movie from advanced lane line, 2-class inference [YouTube Video] (https://www.youtube.com/watch?v=WnQA4dbUMDo)
+* Movie from advanced lane line, 3-class inference [YouTube Video] (https://www.youtube.com/watch?v=GDyUgl0csds)
 
 ---
 
